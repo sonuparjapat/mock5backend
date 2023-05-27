@@ -1,0 +1,15 @@
+{
+    "freelancers":{
+
+    "users":[{
+        "id": 1,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "password",
+        "profession": "Web Developer",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "hourly_rate": 25,
+        "profile_picture": "profile1.jpg",
+              "isBooked" : false
+    }]}
+}
