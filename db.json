@@ -11,5 +11,81 @@
         "hourly_rate": 25,
         "profile_picture": "profile1.jpg",
               "isBooked" : false
-    }]
+    },
+    {
+        "id": 2,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "password",
+        "profession": "Web Developer",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "hourly_rate": 25,
+        "profile_picture": "profile1.jpg",
+              "isBooked" : false
+    },{
+        "id": 3,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "password",
+        "profession": "Web Developer",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "hourly_rate": 25,
+        "profile_picture": "profile1.jpg",
+              "isBooked" : false
+    },
+    {
+        "id": 4,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "password",
+        "profession": "Web Developer",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "hourly_rate": 25,
+        "profile_picture": "profile1.jpg",
+              "isBooked" : false
+    },
+    {
+        "id": 5,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "password",
+        "profession": "Web Developer",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "hourly_rate": 25,
+        "profile_picture": "profile1.jpg",
+              "isBooked" : false
+    },
+    {
+        "id": 6,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "password",
+        "profession": "Web Developer",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "hourly_rate": 25,
+        "profile_picture": "profile1.jpg",
+              "isBooked" : false
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
 }
